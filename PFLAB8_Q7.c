@@ -148,4 +148,6 @@ int main()
     {
         printf("%d\n", marks[i]);
     }
+
+    return 0;
 }
